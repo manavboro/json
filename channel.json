@@ -1,0 +1,104 @@
+{
+  "version": "1.0",
+  "data": {
+    "channel": [
+      {
+        "id": "38ea273c889895aee5cb838a2fcd0d13",
+        "name": "Sony Entertainment",
+        "logo": "https://d250n7duzgh7t2.cloudfront.net/5M1kWBEAJqxy2bmbnRVNZU9RkqFj0cmS/7718F46772A54819AE19147BCE9D3D6B/tg/Sony_Entertainment_225x225-1731319732611.png",
+        "schedule": [
+          {
+            "start_date_time": "20241212000000",
+            "end_date_time": "20241212010000",
+            "lang": "en",
+            "title": "Program 1",
+            "description": "An engaging show for the early hours.",
+            "start": "2024-12-12 00:00:00",
+            "end": "2024-12-12 01:00:00"
+          },
+          {
+            "start_date_time": "20241212010000",
+            "end_date_time": "20241212020000",
+            "lang": "en",
+            "title": "Program 2",
+            "description": "An insightful talk show.",
+            "start": "2024-12-12 01:00:00",
+            "end": "2024-12-12 02:00:00"
+          },
+          {
+            "start_date_time": "20241212020000",
+            "end_date_time": "20241212030000",
+            "lang": "en",
+            "title": "Program 3",
+            "description": "Late-night movie special.",
+            "start": "2024-12-12 02:00:00",
+            "end": "2024-12-12 03:00:00"
+          },
+          {
+            "start_date_time": "20241212030000",
+            "end_date_time": "20241212040000",
+            "lang": "en",
+            "title": "Program 4",
+            "description": "Music hour.",
+            "start": "2024-12-12 03:00:00",
+            "end": "2024-12-12 04:00:00"
+          },
+          {
+            "start_date_time": "20241212040000",
+            "end_date_time": "20241212050000",
+            "lang": "en",
+            "title": "Program 5",
+            "description": "Morning news and updates.",
+            "start": "2024-12-12 04:00:00",
+            "end": "2024-12-12 05:00:00"
+          },
+          {
+            "start_date_time": "20241212050000",
+            "end_date_time": "20241212060000",
+            "lang": "en",
+            "title": "Program 6",
+            "description": "Educational series for kids.",
+            "start": "2024-12-12 05:00:00",
+            "end": "2024-12-12 06:00:00"
+          },
+          {
+            "start_date_time": "20241212060000",
+            "end_date_time": "20241212070000",
+            "lang": "en",
+            "title": "Program 7",
+            "description": "Workout and fitness tips.",
+            "start": "2024-12-12 06:00:00",
+            "end": "2024-12-12 07:00:00"
+          },
+          {
+            "start_date_time": "20241212070000",
+            "end_date_time": "20241212080000",
+            "lang": "en",
+            "title": "Program 8",
+            "description": "Comedy show to brighten your day.",
+            "start": "2024-12-12 07:00:00",
+            "end": "2024-12-12 08:00:00"
+          },
+          {
+            "start_date_time": "20241212080000",
+            "end_date_time": "20241212090000",
+            "lang": "en",
+            "title": "Program 9",
+            "description": "Cooking and recipes show.",
+            "start": "2024-12-12 08:00:00",
+            "end": "2024-12-12 09:00:00"
+          },
+          {
+            "start_date_time": "20241212090000",
+            "end_date_time": "20241212100000",
+            "lang": "en",
+            "title": "Program 10",
+            "description": "Science documentary.",
+            "start": "2024-12-12 09:00:00",
+            "end": "2024-12-12 10:00:00"
+          }
+        ]
+      }
+    ]
+  }
+}
