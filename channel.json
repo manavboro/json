@@ -194,7 +194,7 @@
             "title": "Program 10",
             "description": "Science documentary.",
             "start": "2024-12-18 00:00:00",
-            "end": "2024-12-18 00:59:59"
+            "end": "2024-12-18 00:29:59"
           },
           {
             "start_date_time": "20241213090000",
@@ -202,8 +202,8 @@
             "lang": "en",
             "title": "Program 10",
             "description": "Science documentary.",
-            "start": "2024-12-18 01:00:00",
-            "end": "2024-12-18 03:29:59"
+            "start": "2024-12-18 00:30:00",
+            "end": "2024-12-18 00:59:59"
           },
            {
             "start_date_time": "20241213090000",
@@ -211,7 +211,7 @@
             "lang": "en",
             "title": "Program 10",
             "description": "Science documentary.",
-            "start": "2024-12-18 03:30:00",
+            "start": "2024-12-18 01:00:00",
             "end": "2024-12-18 23:59:59"
           }
         ]
