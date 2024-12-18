@@ -8,226 +8,37 @@
         "logo": "https://d250n7duzgh7t2.cloudfront.net/5M1kWBEAJqxy2bmbnRVNZU9RkqFj0cmS/7718F46772A54819AE19147BCE9D3D6B/tg/Sony_Entertainment_225x225-1731319732611.png",
         "schedule": [
           {
-            "start_date_time": "20241212000000",
-            "end_date_time": "20241212010000",
-            "lang": "en",
-            "title": "Program 1",
-            "description": "An engaging show for the early hours.",
-            "start": "2024-12-12 00:00:00",
-            "end": "2024-12-12 01:00:00"
-          },
-          {
-            "start_date_time": "20241212010000",
-            "end_date_time": "20241212020000",
-            "lang": "en",
-            "title": "Program 2",
-            "description": "An insightful talk show.",
-            "start": "2024-12-12 01:00:00",
-            "end": "2024-12-12 02:00:00"
-          },
-          {
-            "start_date_time": "20241212020000",
-            "end_date_time": "20241212030000",
-            "lang": "en",
-            "title": "Program 3",
-            "description": "Late-night movie special.",
-            "start": "2024-12-12 02:00:00",
-            "end": "2024-12-12 03:00:00"
-          },
-          {
-            "start_date_time": "20241212030000",
-            "end_date_time": "20241212040000",
-            "lang": "en",
-            "title": "Program 4",
-            "description": "Music hour.",
-            "start": "2024-12-12 03:00:00",
-            "end": "2024-12-12 04:00:00"
-          },
-          {
-            "start_date_time": "20241212040000",
-            "end_date_time": "20241212050000",
-            "lang": "en",
-            "title": "Program 5",
-            "description": "Morning news and updates.",
-            "start": "2024-12-12 04:00:00",
-            "end": "2024-12-12 05:00:00"
-          },
-          {
-            "start_date_time": "20241212050000",
-            "end_date_time": "20241212060000",
-            "lang": "en",
-            "title": "Program 6",
-            "description": "Educational series for kids.",
-            "start": "2024-12-12 05:00:00",
-            "end": "2024-12-12 06:00:00"
-          },
-          {
-            "start_date_time": "20241212060000",
-            "end_date_time": "20241212070000",
-            "lang": "en",
-            "title": "Program 7",
-            "description": "Workout and fitness tips.",
-            "start": "2024-12-12 06:00:00",
-            "end": "2024-12-12 07:00:00"
-          },
-          {
-            "start_date_time": "20241212070000",
-            "end_date_time": "20241212080000",
-            "lang": "en",
-            "title": "Program 8",
-            "description": "Comedy show to brighten your day.",
-            "start": "2024-12-12 07:00:00",
-            "end": "2024-12-12 08:00:00"
-          },
-          {
-            "start_date_time": "20241212080000",
-            "end_date_time": "20241212090000",
-            "lang": "en",
-            "title": "Program 9",
-            "description": "Cooking and recipes show.",
-            "start": "2024-12-12 08:00:00",
-            "end": "2024-12-12 09:00:00"
-          },
-          {
-            "start_date_time": "20241212090000",
-            "end_date_time": "20241212100000",
-            "lang": "en",
-            "title": "Program 10",
-            "description": "Science documentary.",
-            "start": "2024-12-12 09:00:00",
-            "end": "2024-12-13 23:59:59"
-          },
-          {
-            "start_date_time": "20241213000000",
-            "end_date_time": "20241213010000",
-            "lang": "en",
-            "title": "Program 1",
-            "description": "An engaging show for the early hours.",
-            "start": "2024-12-13 00:00:00",
-            "end": "2024-12-13 01:00:00"
-          },
-          {
-            "start_date_time": "20241213010000",
-            "end_date_time": "20241213020000",
-            "lang": "en",
-            "title": "Program 2",
-            "description": "An insightful talk show.",
-            "start": "2024-12-13 01:00:00",
-            "end": "2024-12-13 02:00:00"
-          },
-          {
-            "start_date_time": "20241213020000",
-            "end_date_time": "20241213030000",
-            "lang": "en",
-            "title": "Program 3",
-            "description": "Late-night movie special.",
-            "start": "2024-12-13 02:00:00",
-            "end": "2024-12-13 03:00:00"
-          },
-          {
-            "start_date_time": "20241213030000",
-            "end_date_time": "20241213040000",
-            "lang": "en",
-            "title": "Program 4",
-            "description": "Music hour.",
-            "start": "2024-12-13 03:00:00",
-            "end": "2024-12-13 04:00:00"
-          },
-          {
-            "start_date_time": "20241213040000",
-            "end_date_time": "20241213050000",
-            "lang": "en",
-            "title": "Program 5",
-            "description": "Morning news and updates.",
-            "start": "2024-12-13 04:00:00",
-            "end": "2024-12-13 05:00:00"
-          },
-          {
-            "start_date_time": "20241213050000",
-            "end_date_time": "20241213060000",
-            "lang": "en",
-            "title": "Program 6",
-            "description": "Educational series for kids.",
-            "start": "2024-12-13 05:00:00",
-            "end": "2024-12-13 06:00:00"
-          },
-          {
-            "start_date_time": "20241213060000",
-            "end_date_time": "20241213070000",
-            "lang": "en",
-            "title": "Program 7",
-            "description": "Workout and fitness tips.",
-            "start": "2024-12-13 06:00:00",
-            "end": "2024-12-13 07:00:00"
-          },
-          {
-            "start_date_time": "20241213070000",
-            "end_date_time": "20241213080000",
-            "lang": "en",
-            "title": "Program 8",
-            "description": "Comedy show to brighten your day.",
-            "start": "2024-12-13 07:00:00",
-            "end": "2024-12-13 08:00:00"
-          },
-          {
-            "start_date_time": "20241213080000",
-            "end_date_time": "20241213090000",
-            "lang": "en",
-            "title": "Program 9",
-            "description": "Cooking and recipes show.",
-            "start": "2024-12-13 08:00:00",
-            "end": "2024-12-13 09:00:00"
-          },
-          {
-            "start_date_time": "20241213090000",
-            "end_date_time": "20241213100000",
-            "lang": "en",
-            "title": "Program 10",
-            "description": "Science documentary.",
-            "start": "2024-12-13 09:00:00",
-            "end": "2024-12-13 23:59:59"
-          },
-           {
             "start_date_time": "20241213090000",
             "end_date_time": "20241213100000",
             "lang": "en",
             "title": "Program 10",
             "description": "Science documentary.",
             "start": "2024-12-18 00:00:00",
-            "end": "2024-12-18 00:29:59"
+            "end": "2024-12-18 00:59:59"
           },
           {
             "start_date_time": "20241213090000",
             "end_date_time": "20241213100000",
             "lang": "en",
-            "title": "Program 10",
-            "description": "Science documentary.",
-            "start": "2024-12-18 00:30:00",
-            "end": "2024-12-18 00:59:59"
-          },
-           {
-            "start_date_time": "20241213090000",
-            "end_date_time": "20241213100000",
-            "lang": "en",
-            "title": "Program 10",
+            "title": "Program 11",
             "description": "Science documentary.",
             "start": "2024-12-18 01:00:00",
             "end": "2024-12-18 01:59:59"
           },
-           {
+          {
             "start_date_time": "20241213090000",
             "end_date_time": "20241213100000",
             "lang": "en",
-            "title": "Program 10",
+            "title": "Program 12",
             "description": "Science documentary.",
             "start": "2024-12-18 02:00:00",
             "end": "2024-12-18 02:59:59"
           },
-            {
+          {
             "start_date_time": "20241213090000",
             "end_date_time": "20241213100000",
             "lang": "en",
-            "title": "Program 10",
+            "title": "Program 13",
             "description": "Science documentary.",
             "start": "2024-12-18 03:00:00",
             "end": "2024-12-18 03:59:59"
@@ -236,9 +47,180 @@
             "start_date_time": "20241213090000",
             "end_date_time": "20241213100000",
             "lang": "en",
-            "title": "Program 10",
+            "title": "Program 14",
             "description": "Science documentary.",
             "start": "2024-12-18 04:00:00",
+            "end": "2024-12-18 04:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 15",
+            "description": "Science documentary.",
+            "start": "2024-12-18 05:00:00",
+            "end": "2024-12-18 05:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 16",
+            "description": "Science documentary.",
+            "start": "2024-12-18 06:00:00",
+            "end": "2024-12-18 06:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 17",
+            "description": "Science documentary.",
+            "start": "2024-12-18 07:00:00",
+            "end": "2024-12-18 07:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 18",
+            "description": "Science documentary.",
+            "start": "2024-12-18 08:00:00",
+            "end": "2024-12-18 08:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 19",
+            "description": "Science documentary.",
+            "start": "2024-12-18 09:00:00",
+            "end": "2024-12-18 09:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 20",
+            "description": "Science documentary.",
+            "start": "2024-12-18 10:00:00",
+            "end": "2024-12-18 10:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 21",
+            "description": "Science documentary.",
+            "start": "2024-12-18 11:00:00",
+            "end": "2024-12-18 11:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 22",
+            "description": "Science documentary.",
+            "start": "2024-12-18 12:00:00",
+            "end": "2024-12-18 12:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 23",
+            "description": "Science documentary.",
+            "start": "2024-12-18 13:00:00",
+            "end": "2024-12-18 13:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 24",
+            "description": "Science documentary.",
+            "start": "2024-12-18 14:00:00",
+            "end": "2024-12-18 14:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 25",
+            "description": "Science documentary.",
+            "start": "2024-12-18 15:00:00",
+            "end": "2024-12-18 15:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 26",
+            "description": "Science documentary.",
+            "start": "2024-12-18 16:00:00",
+            "end": "2024-12-18 16:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 27",
+            "description": "Science documentary.",
+            "start": "2024-12-18 17:00:00",
+            "end": "2024-12-18 17:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 28",
+            "description": "Science documentary.",
+            "start": "2024-12-18 18:00:00",
+            "end": "2024-12-18 18:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 29",
+            "description": "Science documentary.",
+            "start": "2024-12-18 19:00:00",
+            "end": "2024-12-18 19:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 30",
+            "description": "Science documentary.",
+            "start": "2024-12-18 20:00:00",
+            "end": "2024-12-18 20:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 31",
+            "description": "Science documentary.",
+            "start": "2024-12-18 21:00:00",
+            "end": "2024-12-18 21:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 32",
+            "description": "Science documentary.",
+            "start": "2024-12-18 22:00:00",
+            "end": "2024-12-18 22:59:59"
+          },
+          {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 33",
+            "description": "Science documentary.",
+            "start": "2024-12-18 23:00:00",
             "end": "2024-12-18 23:59:59"
           }
         ]
