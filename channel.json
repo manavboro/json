@@ -219,25 +219,12 @@
           },
           {
             "start": "2025-01-07 18:00:00",
-            "end": "2025-01-07 18:29:59",
+            "end": "2025-01-07 19:29:59",
             "lang": "en",
             "title": "Program 37",
             "description": "Science documentary."
           },
-          {
-            "start": "2025-01-07 18:30:00",
-            "end": "2025-01-07 18:59:59",
-            "lang": "en",
-            "title": "Program 38",
-            "description": "Science documentary."
-          },
-          {
-            "start": "2025-01-07 19:00:00",
-            "end": "2025-01-07 19:29:59",
-            "lang": "en",
-            "title": "Program 39",
-            "description": "Science documentary."
-          },
+         
           {
             "start": "2025-01-07 19:30:00",
             "end": "2025-01-07 19:59:59",
