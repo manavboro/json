@@ -7,6 +7,15 @@
         "name": "Sony Entertainment",
         "logo": "https://d250n7duzgh7t2.cloudfront.net/5M1kWBEAJqxy2bmbnRVNZU9RkqFj0cmS/7718F46772A54819AE19147BCE9D3D6B/tg/Sony_Entertainment_225x225-1731319732611.png",
         "schedule": [
+              {
+            "start_date_time": "20241213090000",
+            "end_date_time": "20241213100000",
+            "lang": "en",
+            "title": "Program 1",
+            "description": "Science documentary.",
+            "start": "2025-01-06 18:30:00",
+            "end": "2025-01-06 18:59:59"
+          },
            {
             "start_date_time": "20241213090000",
             "end_date_time": "20241213100000",
